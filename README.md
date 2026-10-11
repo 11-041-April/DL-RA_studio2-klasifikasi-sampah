@@ -39,13 +39,7 @@ Evaluasi dilakukan melalui tiga putaran preview dan satu hasil final yang menjad
 | Preview 2 | 21 Oktober 2026 | Belum tersedia |
 | Preview 3 / Final | 25 Oktober 2026 | Belum tersedia |
 
-Nilai Macro-F1 akan diperbarui setelah hasil evaluasi diumumkan oleh asisten dosen.
-
-## 5. Dokumentasi Eksperimen
-
-Bagian ini digunakan untuk mencatat perubahan konfigurasi, pendekatan yang diuji, hasil evaluasi, serta temuan dari setiap percobaan. Dokumentasi diperbarui seiring perkembangan eksperimen agar proses pengembangan model dapat ditelusuri melalui riwayat perubahan repository.
-
-## 6. Struktur Repository
+## 5. Struktur Repository
 
 - `train.py` — berkas untuk menjalankan proses pelatihan model.
 - `evaluate.py` — berkas untuk mendukung proses evaluasi model.
@@ -54,6 +48,3 @@ Bagian ini digunakan untuk mencatat perubahan konfigurasi, pendekatan yang diuji
 - `submission/model.pth` — bobot model yang dihasilkan setelah pelatihan.
 - `submission/README.md` — petunjuk penggunaan dan informasi berkas submission.
 
-## 7. Status Pengembangan
-
-Repository ini digunakan untuk menyimpan implementasi, mencatat hasil eksperimen, dan mempersiapkan model klasifikasi sampah untuk proses submission kompetisi Studio Proyek 2.
